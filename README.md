@@ -13,7 +13,7 @@ Requisitos:
 ```python
 -	Ingresar a la carpeta raíz a través del terminal o consola de Windows
 -	Ejecutar docker-compose up
--   Se desplegara usando en el puerto 3000
--   Registrarse en la aplicación para ingresar
+- Se desplegara usando en el puerto 3000
+- Registrarse en la aplicación para ingresar
 
 ```
